@@ -16,7 +16,7 @@
  - Wifi
  - Bluetooth
  - Eathernet
- - iMessage
+ - iMessages
  - 144hz display
  etc
  
