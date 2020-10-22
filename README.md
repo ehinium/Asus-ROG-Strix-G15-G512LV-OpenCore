@@ -1,9 +1,9 @@
-# Asus ROG Strix G15 - G512LV
+# Asus ROG Strix G15 - G512LV - OpenCore EFI
  
  Tested on macOS Big Sur
  NOTE: YOU MUST ADD SMBIOS DETAILS AND YOUR REAL MAC ADDRESS IN THE CONFIG.PLIST BEFOR USING.
  
- Open Core 0.6.2
+ OpenCore 0.6.2
  
  Specs:
  - Intel® Core™ i7 10750H Processor, 2.6 GHz
