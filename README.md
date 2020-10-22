@@ -23,5 +23,5 @@
  Whats does NOT work:
  - Touchpad
  - Handoff
- - Airdrop (do to bluetooth limited support)
+ - Airdrop (due to bluetooth limited support)
  - Bad power managment
