@@ -7,7 +7,7 @@
  
  Specs:
  - Intel® Core™ i7 10750H Processor, 2.6 GHz
- - NVIDIA® GeForce® RTX 2060 (DISBLED)
+ - NVIDIA® GeForce® RTX 2060 (DISABLED)
  - 16G RAM
  - AX201 Wi-Fi 6 (802.11 ax (2x2))
  - ELAN1203 Touchpad
