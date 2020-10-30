@@ -62,14 +62,6 @@
 				<key>Path</key>
 				<string>SSDT-XOSI.aml</string>
 			</dict>
-			<dict>
-				<key>Enabled</key>
-				<true/>
-				<key>Comment</key>
-				<string>SSDT-CPUF.aml</string>
-				<key>Path</key>
-				<string>SSDT-CPUF.aml</string>
-			</dict>
 		</array>
 		<key>Delete</key>
 		<array>
@@ -640,24 +632,6 @@
 				<key>BundlePath</key>
 				<string>VoodooPS2Controller.kext</string>
 			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-				<key>Enabled</key>
-				<true/>
-				<key>MinKernel</key>
-				<string></string>
-				<key>ExecutablePath</key>
-				<string></string>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
-				<string>DisplayScale.kext</string>
-			</dict>
 		</array>
 		<key>Block</key>
 		<array>
@@ -1108,7 +1082,7 @@
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>csr-active-config</key>
-				<data>AAAAAA==</data>
+				<data>/w8AAA==</data>
 				<key>prev-lang:kbd</key>
 				<string>en-US:0</string>
 			</dict>
@@ -1127,6 +1101,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<array>
 				<string>boot-args</string>
+				<string>csr-active-config</string>
 			</array>
 		</dict>
 		<key>LegacyEnable</key>
@@ -1173,19 +1148,19 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>MLB</key>
-			<string></string>
+			<string>C02046609CD00008C</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data></data>
+			<data>AP8HrSKq</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string></string>
+			<string>MacBookPro16,4</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>C02DP0FXMD6T</string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>84C188F7-CD1E-412E-8F4D-D65F2E68BF6F</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
