@@ -62,6 +62,14 @@
 				<key>Path</key>
 				<string>SSDT-XOSI.aml</string>
 			</dict>
+			<dict>
+				<key>Enabled</key>
+				<true/>
+				<key>Comment</key>
+				<string>SSDT-ETPX.aml</string>
+				<key>Path</key>
+				<string>SSDT-ETPX.aml</string>
+			</dict>
 		</array>
 		<key>Delete</key>
 		<array>
@@ -1082,7 +1090,7 @@
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>csr-active-config</key>
-				<data>AAAAAA==</data>
+				<data>/w8AAA==</data>
 				<key>prev-lang:kbd</key>
 				<string>en-US:0</string>
 			</dict>
@@ -1148,19 +1156,19 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>MLB</key>
-			<string>C02046609CD00008C</string>
+			<string></string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>AP8HrSKq</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>MacBookPro16,4</string>
+			<string></string>
 			<key>SystemSerialNumber</key>
-			<string>C02DP0FXMD6T</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>84C188F7-CD1E-412E-8F4D-D65F2E68BF6F</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
