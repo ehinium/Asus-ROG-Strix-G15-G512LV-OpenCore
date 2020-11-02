@@ -17,11 +17,11 @@
  - Bluetooth
  - Eathernet
  - iMessages
+ - Trackpad (Thanks to @ClefairyBlame)
  - 144hz display
  etc
  
  Whats does NOT work:
- - Touchpad
  - Handoff
  - Airdrop (due to bluetooth limited support)
  - Bad power managment
