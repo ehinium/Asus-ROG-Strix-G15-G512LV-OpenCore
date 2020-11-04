@@ -24,4 +24,4 @@
  Whats does NOT work:
  - Handoff
  - Airdrop (due to bluetooth limited support)
- - Bad power managment
+ - Terrible battery life
