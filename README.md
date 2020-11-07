@@ -3,7 +3,7 @@
  Tested on macOS Big Sur
  NOTE:
  - YOU MUST ADD SMBIOS DETAILS AND YOUR REAL MAC ADDRESS IN THE CONFIG.PLIST BEFOR USING.
- - The AirportItlwm.kext is for Big Sur only, use the Catalina version if you are not on Big Sur.
+ - The AirportItlwm.kext is for Big Sur only, <a href="https://github.com/OpenIntelWireless/itlwm/releases">use the Catalina version if you are not on Big Sur.</a>
  
  OpenCore 0.6.3
  
@@ -19,7 +19,7 @@
  - Bluetooth
  - Eathernet
  - iMessages
- - Trackpad (Thanks to @ClefairyBlame)
+ - Trackpad (Thanks to <a href="https://github.com/ClefairyBlame">ClefairyBlame</a>)
  - 144hz display
  etc
  
