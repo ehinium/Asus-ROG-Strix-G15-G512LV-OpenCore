@@ -27,4 +27,5 @@
  Whats does NOT work:
  - Handoff
  - Airdrop (due to bluetooth limited support)
+ - HDMI Audio
  - Terrible battery life
