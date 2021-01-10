@@ -6,7 +6,7 @@
  - YOU MUST ADD SMBIOS DETAILS AND YOUR REAL MAC ADDRESS IN THE CONFIG.PLIST BEFOR USING.
  - The AirportItlwm.kext is for Big Sur only, <a href="https://github.com/OpenIntelWireless/itlwm/releases">use the Catalina version if you are not on Big Sur.</a>
  
- OpenCore 0.6.2
+ OpenCore 0.6.3
  
  Specs:
  - Intel® Core™ i7 10750H Processor, 2.6 GHz
@@ -27,4 +27,5 @@
  Whats does NOT work:
  - Handoff
  - Airdrop (due to bluetooth limited support)
+ - HDMI Audio
  - Terrible battery life
