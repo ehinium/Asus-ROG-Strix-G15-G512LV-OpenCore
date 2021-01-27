@@ -30,4 +30,4 @@
  - HDMI Audio
  
  Credits:
-Thanks to <a href="https://github.com/dkoluris">Dennis Koluris</a> for fixing power managment.
+ - Thanks to <a href="https://github.com/dkoluris">Dennis Koluris</a> for fixing power managment.
