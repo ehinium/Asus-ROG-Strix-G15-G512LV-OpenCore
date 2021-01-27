@@ -22,10 +22,12 @@
  - iMessages
  - Trackpad (Thanks to <a href="https://github.com/ClefairyBlame">ClefairyBlame</a>)
  - 144hz display
+ - Handoff
  etc
  
  Whats does NOT work:
- - Handoff
  - Airdrop (due to bluetooth limited support)
  - HDMI Audio
- - Terrible battery life
+ 
+ Credits:
+Thanks to <a href="https://github.com/dkoluris">Dennis Koluris</a> for fixing power managment.
