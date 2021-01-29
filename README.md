@@ -23,11 +23,11 @@
  - Trackpad (Thanks to <a href="https://github.com/ClefairyBlame">ClefairyBlame</a>)
  - 144hz display
  - Handoff
- etc
+ - etc
  
  Whats does NOT work:
  - Airdrop (due to bluetooth limited support)
  - HDMI Audio
  
  Credits:
- - Thanks to <a href="https://github.com/dkoluris">Dennis Koluris</a> for fixing power managment.
+ - Thanks to <a href="https://github.com/dkoluris">Dennis Koluris</a> for power managment fix.
