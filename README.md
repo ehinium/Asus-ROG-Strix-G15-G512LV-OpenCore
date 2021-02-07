@@ -27,7 +27,7 @@
  
  Whats does NOT work:
  - Airdrop (due to bluetooth limited support)
- - HDMI Audio
+ - HDMI
  
  Credits:
  - Thanks to <a href="https://github.com/dkoluris">Dennis Koluris</a> for power managment fix.
