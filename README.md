@@ -5,6 +5,7 @@
  NOTE:
  - YOU MUST ADD SMBIOS DETAILS AND YOUR REAL MAC ADDRESS IN THE CONFIG.PLIST BEFOR USING.
  - The AirportItlwm.kext is for Big Sur only, <a href="https://github.com/OpenIntelWireless/itlwm/releases">use the Catalina version if you are not on Big Sur.</a>
+ - <a href="https://github.com/xzhih/one-key-hidpi">For Enabling macOS HiDPI.</a>
  
  OpenCore 0.6.5
  
