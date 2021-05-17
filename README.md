@@ -7,7 +7,7 @@
  - The AirportItlwm.kext is for Big Sur only, <a href="https://github.com/OpenIntelWireless/itlwm/releases">use the Catalina version if you are not on Big Sur.</a>
  - <a href="https://github.com/xzhih/one-key-hidpi">For Enabling macOS HiDPI.</a>
  
- OpenCore 0.6.5
+ OpenCore 0.6.9
  
  Specs:
  - Intel® Core™ i7 10750H Processor, 2.6 GHz
