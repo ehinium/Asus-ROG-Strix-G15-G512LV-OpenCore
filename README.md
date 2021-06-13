@@ -8,7 +8,7 @@
 <li>If you want to install macOS on the same drive as Windows, extend your laptop default EFI folder to over 200MB. You may break your Windows bootloader if it's under 200MB.</li>
 <li>The AirportItlwm.kext is for Big Sur only, <a href="https://github.com/OpenIntelWireless/itlwm/releases">use the Catalina version if you are not on Big Sur</a></li>
 <li><a href="https://github.com/xzhih/one-key-hidpi">For Enabling macOS HiDPI</a></li>
-<li>You can use this EFI for other models like G512LI/LW, G712LI/LV/LW, and probably even other Asus gaming laptops like the Zephyrus series as there isn't much difference in internal structure. Probably you'll need to remap USB and change some values for CPU, iGPU, Audio, etc in config.plist according to <a href="https://dortania.github.io/OpenCore-Install-Guide">Dortina's official guide</a> for your device.</li>
+<li>You can use this EFI for other models like G512LI/LW, G712LI/LV/LW, and probably even other Asus gaming laptops(exept AMD ones) like the Zephyrus series as there isn't much difference in internal structure. Probably you'll need to remap USB and change some values for CPU, iGPU, Audio, etc in config.plist according to <a href="https://dortania.github.io/OpenCore-Install-Guide">Dortina's official guide</a> for your device.</li>
  
 <h1>Specs</h1>
 <li>Intel® Core™ i7 10750H Processor, 2.6 GHz</li>
