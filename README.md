@@ -3,7 +3,7 @@
 <li>Tested on macOS <b>BigSur</b>.</li>
  
 <h1>Important Notes</h1>
-<li>OpenCore version: <b>0.7.0</b></li>
+<li>OpenCore version: <b>0.7.3</b></li>
 <li>Add your <b>SMBIOS</b> details and <b>mac address</b> in config.plist. <a href="https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/coffee-lake-plus.html#platforminfo">Use this guide</a></li>
 <li>If you want to install macOS on the same drive as Windows, extend your laptop default EFI partition to over 200MB. You may break your Windows bootloader if it's 200MB(default) or less.</li>
 <li>The AirportItlwm.kext is for Big Sur only, <a href="https://github.com/OpenIntelWireless/itlwm/releases">use the Catalina version if you are not on Big Sur</a></li>
